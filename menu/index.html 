@@ -7,6 +7,9 @@
     <!-- Axentix CSS minified version -->
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/axentix@1.1.0/dist/css/axentix.min.css">
     <!-- Head of your page -->
+
+    <!-- CSS only -->
+   
    </head>
 
   <body class="layout">
@@ -31,8 +34,9 @@
           </div>
         </div>
       </nav>
+      
     </header>
-
+ 
     <div class="sidenav white shadow-1" id="main-sidenav" data-ax="sidenav">
       <div class="sidenav-header">
         <img src="https://useaxentix.com/img/axentix.svg" alt="" class="sidenav-logo" />
@@ -41,15 +45,19 @@
       <a href="#" class="sidenav-link active">About</a>
       <a href="#" class="sidenav-link">Coronavirus</a>
       <a href="#" class="sidenav-link">Population</a>
+
+
     </div>
+
 
     <main>
       <h1 class="txt-center font-w300 mx-2">Hello from Axentix !</h1>
+
     </main>
 
   <footer class="large-footer primary">
     <div class="footer-content txt-center">
-      <h6>Middle of the footer</h6>
+      <h6>Worldometer</h6>
       <p>
         Welcome<br />
         I'm under "Welcome"
@@ -59,5 +67,6 @@
   </footer>
 
     <script src="https://cdn.jsdelivr.net/npm/axentix@1.1.0/dist/js/axentix.min.js"></script>
+    
   </body>
 </html>
