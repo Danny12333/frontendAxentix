@@ -38,9 +38,9 @@
         <img src="https://useaxentix.com/img/axentix.svg" alt="" class="sidenav-logo" />
       </div>
 
-      <a href="#" class="sidenav-link active">Link 1</a>
-      <a href="#" class="sidenav-link">Link 2</a>
-      <a href="#" class="sidenav-link">Link 3</a>
+      <a href="#" class="sidenav-link active">About</a>
+      <a href="#" class="sidenav-link">Coronavirus</a>
+      <a href="#" class="sidenav-link">Population</a>
     </div>
 
     <main>
